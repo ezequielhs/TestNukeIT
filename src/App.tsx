@@ -15,7 +15,7 @@ function App() {
   return (
     <main className="h-screen w-screen flex items-center justify-center flex-col gap-8">
       <div className="flex items-center flex-col">
-        <H1 className="text-sm">Hello World</H1>
+        <H1 className="text-lg">Hello World</H1>
         <H2>Destroy complexity, create beauty.</H2>
       </div>
 
